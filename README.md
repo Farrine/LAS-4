@@ -23,7 +23,6 @@ Masuk ke dalam directory LAS-4
 
 Masuk ke dalam directory SNMAP
 
-## DEMO
 ```bash
   cd SNMAP
 ```
@@ -32,3 +31,6 @@ Jalankan Tools menggunakan command `python3`
 ```bash
   python3 SNMAP.py
 ```
+
+## DEMO
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
