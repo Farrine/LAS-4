@@ -32,7 +32,7 @@ if respon == '1':
     print("Open Ports: ", scanner[ip_add]['tcp'].keys())
 
 #---------------------------------
-if respon == '2':
+elif respon == '2':
     os.system("cls")
     ip_add = input("Please, enter the IP Address you want to scan:")
 
@@ -45,7 +45,7 @@ if respon == '2':
     print("Open Ports: ", scanner[ip_add]['tcp'].keys())
 
 #---------------------------------
-if respon == '3':
+elif respon == '3':
     os.system("cls")
     ip_add = input("Please, enter the IP Address you want to scan:")
 
