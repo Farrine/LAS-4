@@ -58,5 +58,5 @@ elif respon == '3':
     print("Open Ports: ", scanner[ip_add]['udp'].keys())
 
 #---------------------------------
-else:
+elif respon >= '4':
     print("Please, enter a valid option")
