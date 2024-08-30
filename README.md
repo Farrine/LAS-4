@@ -33,4 +33,4 @@ Jalankan Tools menggunakan command `python3`
 ```
 
 ## DEMO
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)]()
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/f9He4Ihudic)
